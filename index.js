@@ -10,6 +10,6 @@ function happyHolidaysTo(name){
 
 var holiday ="Independece Day";
 var  name = "Ben";
-    function happyCustomHolidayTo(holiday,name){
+    function happyCustomHolidayTo(holiday, name){
       return `Happy ${holiday},${name}!`;
     }
